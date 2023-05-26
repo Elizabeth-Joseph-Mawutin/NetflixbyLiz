@@ -19,7 +19,7 @@ html, body {
 .bg {
 	background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('./images/netflix.jpg');
 	height: 100vh;
-	width:200vh;
+	width:93%;
 	margin-top: -2%;
 	margin-left: 50px;
 	margin-right: 50px;
@@ -69,7 +69,6 @@ nav .signin {
 	
 }
 
-
 .btn {
 	font-size: 25px;
 	font-weight: 1.9px;
@@ -87,10 +86,244 @@ nav .signin {
 	border: 0;
 }
 
-
 nav .signin:hover, .btn:hover {
 	background: #f40612;
 }
+
+.middle {
+	background: linear-gradient(to bottom, rgba(11, 2, 32, 0.5), rgba(48, 2, 40, 0.8));
+	/* background-color: rgb(8, 4, 26); */
+	height: 275vh;
+	width:93%;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 30px;
+	border-radius: 30px;
+}
+
+.pitch-title1 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+	
+}
+
+.pitch-sub1 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	font-weight: 500em;
+}
+
+.mid {
+	margin-left: 105px;
+	margin-top: 40em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .first {
+	position: relative;
+	margin-left: 50%;
+	width: 43%;
+}
+
+.middle .line1 {
+	height: 10px;
+	width:83%;
+	margin-left: 110px;
+	background-color: rgb(28, 28, 59);
+}
+
+.pitch-title2 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+	margin-top: 3em;
+	margin-left: 12em;
+	
+}
+
+.pitch-sub2 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	margin-top: 1em;
+	margin-left: 29em;
+}
+
+.mid2 {
+	margin-left: 105px;
+	margin-top: 65em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .sec {
+	position:relative;
+	margin-top: 1em;
+	margin-left: 8%;
+	width: 43%;
+}
+
+.middle .line2 {
+	height: 10px;
+	width:83%;
+	margin-left: 110px;
+	margin-top: 1em;
+	background-color: rgb(28, 28, 59);
+}
+
+.pitch-title3 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+	margin-top: 2.8em;
+	margin-left: 0.5em;
+	
+}
+
+.pitch-sub3 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
+.mid3 {
+	margin-left: 105px;
+	margin-top: 100em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .third {
+	position:relative;
+	margin-top: 1em;
+	margin-left: 45em;
+	width: 40%;
+}
+
+.middle .line3 {
+	height: 10px;
+	width:83%;
+	margin-left: 110px;
+	margin-top: 1em;
+	background-color: rgb(28, 28, 59);
+}
+
+.pitch-title4 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+	margin-top: 12em;
+	margin-left: 10em;
+	
+}
+
+.pitch-sub4 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	margin-top: 1em;
+	margin-left: 24em;
+}
+
+.mid4 {
+	margin-left: 15em;
+	margin-top: 100em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .fourth {
+	position:relative;
+	margin-top: 1.5em;
+	margin-left: 7em;
+	width: 42%;
+}
+
+.qa {
+	font-size: 2.8em;
+	margin-left: 4em;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+.q1 {
+	background-color: rgb(2, 34, 66);
+	width:30em;
+	height: 50em;
+	padding: 10px;
+	font-size: 1.5em;
+	margin-left: 7.7em;
+	margin-top: 50px;
+	margin-bottom: 90em;
+	padding-right: 60%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+}
+
+.dd1 {
+	background-color: rgb(2, 34, 66);
+	width:45.3em;
+	height: 7em;
+	font-size: 1.5em;
+	margin-left: 7.7em;
+	padding: 20px 20px 20px 20px;
+	position:absolute;
+	display: none;
+}
+
+.q1:hover {
+	background-color: rgb(102, 96, 182);
+	cursor: pointer;
+	visibility: visible;
+} 
+
+.icon {
+	position:absolute;
+	margin-left: 35em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #features > nav {
 	padding-top: 35px;
@@ -147,6 +380,7 @@ nav .signin:hover, .btn:hover {
 
 .center {
 	margin: 0 auto;
+	margin-top: 150px;
 }
 
 .size-90 {
