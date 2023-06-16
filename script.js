@@ -6,3 +6,5 @@ function showText() {
 		textElement.style.display = "none";
 	};
 };
+
+if (email == '') alert ("Email cannot be empty");
