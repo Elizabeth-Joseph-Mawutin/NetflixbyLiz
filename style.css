@@ -93,7 +93,7 @@ nav .signin:hover, .btn:hover {
 .middle {
 	background: linear-gradient(to bottom, rgba(11, 2, 32, 0.5), rgba(48, 2, 40, 0.8));
 	/* background-color: rgb(8, 4, 26); */
-	height: 275vh;
+	height: 300vh;
 	width:93%;
 	margin-left: 50px;
 	margin-right: 50px;
@@ -246,46 +246,44 @@ nav .signin:hover, .btn:hover {
 
 .qa {
 	font-size: 2.8em;
-	margin-left: 4em;
+	margin-left: 3.6em;
 	margin-top: 2em;
-	margin-bottom: 1em;
+	margin-bottom: 10px;
 }
 
 .q1 {
 	background-color: rgb(2, 34, 66);
-	width:30em;
-	height: 50em;
-	padding: 10px;
+	width:49em;
+	height: 90px;
 	font-size: 1.5em;
-	margin-left: 7.7em;
-	margin-top: 50px;
-	margin-bottom: 90em;
-	padding-right: 60%;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	margin-left: 6.8em;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	padding-left: 20px;
+	text-align: left;
+	color: #fff;
 }
 
 .dd1 {
 	background-color: rgb(2, 34, 66);
-	width:45.3em;
-	height: 7em;
-	font-size: 1.5em;
-	margin-left: 7.7em;
+	width:43.2em;
+	height: 9em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
 	padding: 20px 20px 20px 20px;
-	position:absolute;
-	display: none;
 }
 
 .q1:hover {
-	background-color: rgb(102, 96, 182);
+	background-color: rgb(16, 13, 46);
 	cursor: pointer;
 	visibility: visible;
 } 
 
 .icon {
 	position:absolute;
-	margin-left: 35em;
+	margin-left: 38em;
 }
 
 
