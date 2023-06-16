@@ -93,7 +93,7 @@ nav .signin:hover, .btn:hover {
 .middle {
 	background: linear-gradient(to bottom, rgba(11, 2, 32, 0.5), rgba(48, 2, 40, 0.8));
 	/* background-color: rgb(8, 4, 26); */
-	height: 300vh;
+	height: 273vh;
 	width:93%;
 	margin-left: 50px;
 	margin-right: 50px;
@@ -286,9 +286,100 @@ nav .signin:hover, .btn:hover {
 	margin-left: 38em;
 }
 
+.dd2 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 4em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
 
+#icon2 {
+	position:absolute;
+	margin-left: 32em;
+}
 
+.dd3 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 11em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
 
+#icon3 {
+	position:absolute;
+	margin-left: 36em;
+}
+
+.dd4 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 5em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon4 {
+	position:absolute;
+	margin-left: 36em;
+}
+
+.dd5 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 4em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon5 {
+	position:absolute;
+	margin-left: 36em;
+}
+
+.dd6 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 7.7em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon6 {
+	position:absolute;
+	margin-left: 36em;
+}
+
+.ftxt {
+	font-size: large;
+	margin-left: 9em;
+	margin-top: 40px;
+}
+
+.email2 {
+	height: 60px;
+	width: 30%;
+	background:rgb(41, 38, 73);
+	margin-left: 10em;
+	margin-right: 5px;
+	padding: 10px;
+	border-color: rgb(127, 190, 108);
+	border-radius: 5px;
+	color: #fff;
+	font-size: 16px;
+	
+}
 
 
 
